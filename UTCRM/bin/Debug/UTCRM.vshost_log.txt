@@ -1,0 +1,1 @@
+http://ui.ptlogin2.qq.com/cross_proxy.html#{"action":"resize","width":"622","height":"368"}

@@ -1,0 +1,129 @@
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csprojResolveAssemblyReference.cache
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.Properties.Resources.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe.config
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\Interop.MSScriptControl.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.ResolveComReference.cache
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.ChangePassword.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.FriendInfoManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupMemberManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.KeTangAccount.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.login.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.MonitorOfQQKeTang.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OperatorManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQGroupLessonAccount.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQKeTangAccount.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.qundongtai.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SearchStudents.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SelectObject.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.frmMain.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.log.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.UTLogin.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Release\HttpHelper.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.exe
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.pdb
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe.config
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\Interop.MSScriptControl.dll
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.ResolveComReference.cache
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.exe
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.pdb
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.pdb
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\HttpHelper.dll
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.dll
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.pdb
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csprojResolveAssemblyReference.cache
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.ChangePassword.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.FriendInfoManage.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupManage.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupMemberManage.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.KeTangAccount.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.login.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.MonitorOfQQKeTang.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OperatorManage.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQGroupLessonAccount.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQKeTangAccount.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.qundongtai.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SearchStudents.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SelectObject.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.frmMain.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.log.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.Properties.Resources.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.UTLogin.resources
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe.config
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.exe
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\HttpHelper.dll
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.dll
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.ChangePassword.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.FriendInfoManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupMemberManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.KeTangAccount.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.login.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.MonitorOfQQKeTang.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OperatorManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQGroupLessonAccount.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQKeTangAccount.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.qundongtai.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SearchStudents.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SelectObject.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.frmMain.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.log.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.UTLogin.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.GenerateResource.Cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe.config
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\Interop.MSScriptControl.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.ResolveComReference.cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.exe
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csprojResolveAssemblyReference.cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.ChangePassword.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.FriendInfoManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.GroupMemberManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.KeTangAccount.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.login.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.MonitorOfQQKeTang.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OperatorManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQGroupLessonAccount.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.QQKeTangAccount.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.qundongtai.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SearchStudents.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SelectObject.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.frmMain.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.log.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.Properties.Resources.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.UTLogin.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.csproj.GenerateResource.Cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.exe
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\UTCRM.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\HttpHelper.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.AddOrgType.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.AnalyzeOfPie.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.AnalyzeSegment.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.AnalyzeSelectWindow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.FrmOrgDataAnalyze.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.FrmOrgDataQuery.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.FrmOrgManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.SelectTypeAndOrg.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.FrmOutTypeData.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Release\UTCRM.OrgMessageFrm.FrmPieClickShow.resources

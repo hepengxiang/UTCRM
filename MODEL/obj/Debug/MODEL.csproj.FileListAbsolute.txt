@@ -1,0 +1,25 @@
+D:\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.dll
+D:\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.pdb
+D:\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.dll
+D:\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Debug\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B43BB0AD-8FF3-46F3-A7F1-BE14CA548350}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UTCRM</RootNamespace>
+    <AssemblyName>UTCRM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <IntermediateOutputPath>C:\Users\ADMINI~1\AppData\Local\Temp\vs4200.tmp\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <IntermediateOutputPath>C:\Users\ADMINI~1\AppData\Local\Temp\vs4200.tmp\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>20170829105230286_easyicon_net_256.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HttpHelper, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\HttpHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OrgMessageFrm\AddOrgType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\AddOrgType.Designer.cs">
+      <DependentUpon>AddOrgType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="DBHelperSQL.cs" />
+    <Compile Include="FriendInfoManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FriendInfoManage.Designer.cs">
+      <DependentUpon>FriendInfoManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupManage.Designer.cs">
+      <DependentUpon>GroupManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupMemberManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupMemberManage.Designer.cs">
+      <DependentUpon>GroupMemberManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keqq.cs" />
+    <Compile Include="KeTangAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeTangAccount.Designer.cs">
+      <DependentUpon>KeTangAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitorOfQQKeTang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitorOfQQKeTang.Designer.cs">
+      <DependentUpon>MonitorOfQQKeTang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperatorManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperatorManage.Designer.cs">
+      <DependentUpon>OperatorManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageBLL\OrgMessageBLL.cs" />
+    <Compile Include="OrgMessageDAL\OrgMessageDal.cs" />
+    <Compile Include="OrgMessageFrm\AnalyzeOfPie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\AnalyzeOfPie.Designer.cs">
+      <DependentUpon>AnalyzeOfPie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\AnalyzeSegment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\AnalyzeSegment.Designer.cs">
+      <DependentUpon>AnalyzeSegment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\AnalyzeSelectWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\AnalyzeSelectWindow.Designer.cs">
+      <DependentUpon>AnalyzeSelectWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOrgDataAnalyze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOrgDataAnalyze.Designer.cs">
+      <DependentUpon>FrmOrgDataAnalyze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOrgDataQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOrgDataQuery.Designer.cs">
+      <DependentUpon>FrmOrgDataQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOrgManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOrgManager.Designer.cs">
+      <DependentUpon>FrmOrgManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOutTypeData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmOutTypeData.Designer.cs">
+      <DependentUpon>FrmOutTypeData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmPieClickShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\FrmPieClickShow.Designer.cs">
+      <DependentUpon>FrmPieClickShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="process.cs" />
+    <Compile Include="QQGroupLessonAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QQGroupLessonAccount.Designer.cs">
+      <DependentUpon>QQGroupLessonAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QQKeTangAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QQKeTangAccount.Designer.cs">
+      <DependentUpon>QQKeTangAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qundongtai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qundongtai.Designer.cs">
+      <DependentUpon>qundongtai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchStudents.Designer.cs">
+      <DependentUpon>SearchStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectObject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectObject.Designer.cs">
+      <DependentUpon>SelectObject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgMessageFrm\SelectTypeAndOrg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgMessageFrm\SelectTypeAndOrg.Designer.cs">
+      <DependentUpon>SelectTypeAndOrg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UTCRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UTCRM.Designer.cs">
+      <DependentUpon>UTCRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log.Designer.cs">
+      <DependentUpon>log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="qqApp.cs" />
+    <Compile Include="tools.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UTLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UTLogin.Designer.cs">
+      <DependentUpon>UTLogin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="OrgMessageFrm\AddOrgType.resx">
+      <DependentUpon>AddOrgType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FriendInfoManage.resx">
+      <DependentUpon>FriendInfoManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupManage.resx">
+      <DependentUpon>GroupManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupMemberManage.resx">
+      <DependentUpon>GroupMemberManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeTangAccount.resx">
+      <DependentUpon>KeTangAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitorOfQQKeTang.resx">
+      <DependentUpon>MonitorOfQQKeTang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperatorManage.resx">
+      <DependentUpon>OperatorManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\AnalyzeOfPie.resx">
+      <DependentUpon>AnalyzeOfPie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\AnalyzeSegment.resx">
+      <DependentUpon>AnalyzeSegment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\AnalyzeSelectWindow.resx">
+      <DependentUpon>AnalyzeSelectWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\FrmOrgDataAnalyze.resx">
+      <DependentUpon>FrmOrgDataAnalyze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\FrmOrgDataQuery.resx">
+      <DependentUpon>FrmOrgDataQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\FrmOrgManager.resx">
+      <DependentUpon>FrmOrgManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\FrmOutTypeData.resx">
+      <DependentUpon>FrmOutTypeData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\FrmPieClickShow.resx">
+      <DependentUpon>FrmPieClickShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QQGroupLessonAccount.resx">
+      <DependentUpon>QQGroupLessonAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QQKeTangAccount.resx">
+      <DependentUpon>QQKeTangAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qundongtai.resx">
+      <DependentUpon>qundongtai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchStudents.resx">
+      <DependentUpon>SearchStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectObject.resx">
+      <DependentUpon>SelectObject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgMessageFrm\SelectTypeAndOrg.resx">
+      <DependentUpon>SelectTypeAndOrg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UTCRM.resx">
+      <DependentUpon>UTCRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log.resx">
+      <DependentUpon>log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UTLogin.resx">
+      <DependentUpon>UTLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MODEL\MODEL.csproj">
+      <Project>{119D5814-8D38-49AA-9012-086CF789AF26}</Project>
+      <Name>MODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MSScriptControl">
+      <Guid>{0E59F1D2-1FBE-11D0-8FF2-00A0D10038BC}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="20170829105230286_easyicon_net_256.ico" />
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

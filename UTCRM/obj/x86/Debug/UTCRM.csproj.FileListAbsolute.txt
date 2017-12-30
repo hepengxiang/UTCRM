@@ -1,0 +1,178 @@
+D:\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe.config
+D:\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe
+D:\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.pdb
+D:\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.dll
+D:\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.pdb
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csprojResolveAssemblyReference.cache
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\Interop.MSScriptControl.dll
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.ResolveComReference.cache
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.ChangePassword.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.FriendInfoManage.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupManage.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupMemberManage.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.KeTangAccount.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.login.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.MonitorOfQQKeTang.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OperatorManage.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQGroupLessonAccount.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQKeTangAccount.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.qundongtai.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SearchStudents.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SelectObject.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.frmMain.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.log.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.Properties.Resources.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.UTLogin.resources
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.GenerateResource.Cache
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.exe
+D:\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe.config
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.exe
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.ChangePassword.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.FriendInfoManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupMemberManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.KeTangAccount.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.login.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.MonitorOfQQKeTang.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OperatorManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQGroupLessonAccount.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQKeTangAccount.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.qundongtai.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SearchStudents.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SelectObject.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.frmMain.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.log.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.UTLogin.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe.config
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.exe
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.ChangePassword.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.FriendInfoManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupMemberManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.KeTangAccount.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.login.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.MonitorOfQQKeTang.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OperatorManage.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQGroupLessonAccount.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQKeTangAccount.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.qundongtai.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SearchStudents.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SelectObject.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.frmMain.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.log.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.UTLogin.resources
+C:\Users\Administrator\Desktop\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe.config
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\Interop.MSScriptControl.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.ResolveComReference.cache
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.exe
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.ChangePassword.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.FriendInfoManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupMemberManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.KeTangAccount.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.login.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.MonitorOfQQKeTang.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OperatorManage.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQGroupLessonAccount.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQKeTangAccount.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.qundongtai.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SearchStudents.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SelectObject.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.frmMain.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.log.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.UTLogin.resources
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe.config
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.exe
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.dll
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.pdb
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.ChangePassword.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.FriendInfoManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupMemberManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.KeTangAccount.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.login.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.MonitorOfQQKeTang.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OperatorManage.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQGroupLessonAccount.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQKeTangAccount.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.qundongtai.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SearchStudents.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SelectObject.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.frmMain.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.log.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.UTLogin.resources
+C:\Users\Administrator\Desktop\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.GenerateResource.Cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe.config
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.exe
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\UTCRM.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\bin\Debug\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\Interop.MSScriptControl.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.ResolveComReference.cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.AddOrgType.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.ChangePassword.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.FriendInfoManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.GroupMemberManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.KeTangAccount.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.login.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.MonitorOfQQKeTang.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OperatorManage.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.FrmOrgDataAnalyze.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.FrmOrgDataQuery.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.FrmOrgManager.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQGroupLessonAccount.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.QQKeTangAccount.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.qundongtai.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SearchStudents.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SelectObject.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.SelectTypeAndOrg.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.frmMain.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.log.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.Properties.Resources.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.UTLogin.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csproj.GenerateResource.Cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.exe
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.AnalyzeSelectWindow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.AnalyzeOfPie.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.AnalyzeSegment.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.FrmOutTypeData.resources
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.csprojResolveAssemblyReference.cache
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\UTCRM\obj\x86\Debug\UTCRM.OrgMessageFrm.FrmPieClickShow.resources

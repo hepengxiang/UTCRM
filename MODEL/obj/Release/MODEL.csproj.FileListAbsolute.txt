@@ -1,0 +1,13 @@
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\bin\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\bin\Release\MODEL.pdb
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\obj\Release\MODEL.dll
+E:\桌面文件----勿删\刘工\UTCRM课堂监控\UTCRM-鹏翔\UTCRM\UTCRM\MODEL\obj\Release\MODEL.pdb
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Release\MODEL.dll
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Release\MODEL.pdb
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Release\MODEL.dll
+G:\优梯教育软件及源码\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Release\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\bin\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Release\MODEL.dll
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Release\MODEL.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\UTCRM课堂监控软件源码\UTCRM\UTCRM\UTCRM\MODEL\obj\Release\MODEL.csprojResolveAssemblyReference.cache
