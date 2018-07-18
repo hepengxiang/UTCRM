@@ -11,7 +11,7 @@ namespace UTCRM
     {
         public static string user = "";
         public static string grade = "";
-        public static string constr = "Data Source=122.114.36.252,2658;Network Library = DBMSSOCN;Initial Catalog=UTCRMDB;User ID=utcrm;Password = 1qazse4";
+        public static string constr = "Data Source=122.114.238.76,2658;Network Library = DBMSSOCN;Initial Catalog=UTCRMDB;User ID=utcrm;Password = 1qazse4";
 
         public static DataTable ExecuteQuery(string sql)
         {

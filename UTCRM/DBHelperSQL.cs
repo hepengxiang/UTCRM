@@ -20,7 +20,7 @@ namespace UTCRM
         //数据库连接字符串(web.config来配置)，多数据库可使用DbHelperSQLP来实现.
         //public static string connectionString = ConfigurationManager.ConnectionStrings["sqlservercon"].ConnectionString;
         //public static string connectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=TEST;User ID=root;Password=123";
-        public static string connectionString = @"Data Source=122.114.36.252,2658;Initial Catalog=UTCRMDB;User ID=utcrm;Password=1qazse4";
+        public static string connectionString = @"Data Source=122.114.238.76,2658;Initial Catalog=UTCRMDB;User ID=utcrm;Password=1qazse4";
         public DbHelperSQL()
         {
         }
